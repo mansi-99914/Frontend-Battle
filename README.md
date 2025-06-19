@@ -12,7 +12,7 @@ A responsive, modern landing page with stunning animations and interactive featu
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-site-name.netlify.app)
+[View Live Demo](https://mansi-99914.github.io/Frontend-Battle/)
 
 ## 🛠️ Technologies Used
 
