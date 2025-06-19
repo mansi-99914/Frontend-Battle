@@ -1,0 +1,31 @@
+{
+  "name": "modern-landing-page",
+  "version": "1.0.0",
+  "description": "A responsive, modern landing page with stunning animations and interactive features",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server --port=3000",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "netlify deploy --prod --dir=."
+  },
+  "keywords": [
+    "landing-page",
+    "responsive",
+    "modern",
+    "animations",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/modern-landing-page.git"
+  },
+  "homepage": "https://your-site-name.netlify.app"
+}
